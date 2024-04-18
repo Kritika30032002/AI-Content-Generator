@@ -51,14 +51,7 @@ const App = () => {
               </AuthRoute>
             }
           />
-          <Route
-            path='/success'
-            element={
-              <AuthRoute>
-                <PaymentSuccess />
-              </AuthRoute>
-            }
-          />
+           <Route path='/success' element={<PaymentSuccess />} />
 
           <Route
             path='/dashboard'
