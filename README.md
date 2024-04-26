@@ -27,7 +27,7 @@ STRIPE_PUBLISHABLE_KEY=
 ![Screenshot (39400)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/e0b29ff9-358e-4df2-87d4-36d6bf8f9607)
 ![Screenshot (39401)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/05ba72c0-06d3-473e-a1ca-ce72d685e265)
 ![Screenshot (39402)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/53df7e5a-2a71-41e1-b5a0-ce2785cac23b)
-![Screenshot (39403)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/14743e7a-9f50-42a9-ada1-23b0e115dc25)
+![Screenshot (39530)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/fbc6551a-270f-4b99-a3d9-1b42ad56767a)
 ![Screenshot (39404)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/3faffe6c-adf3-46a3-b1ab-c1741e46ad4a)
 ![Screenshot (39405)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/12bdeb0f-3493-44e5-a829-43c0bb6b1420)
 ![Screenshot (39406)](https://github.com/Kritika30032002/AI-Content-Generator/assets/83400697/e5a47df1-d7c9-43e8-baee-50ca285a03b2)
