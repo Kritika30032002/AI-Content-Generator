@@ -12,6 +12,7 @@ Developed an AI SaaS application utilizing the MERN Stack, guided by ChatGPT. Th
 ```
 REACT_APP_STRIPE_KEY=
 ```
+It is same as STRIPE_PUBLISHABLE_KEY.
 
 ## Backend .env
 ```
